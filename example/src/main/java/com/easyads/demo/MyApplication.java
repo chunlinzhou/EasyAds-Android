@@ -9,6 +9,7 @@ import com.easyads.model.EALogLevel;
 import com.easyads.demo.utils.Constant;
 import com.hjq.toast.ToastUtils;
 import com.huawei.hms.ads.HwAds;
+import com.market.sdk.BuildConfig;
 
 public class MyApplication extends Application {
 

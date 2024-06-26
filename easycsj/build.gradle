@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.kezong.fat-aar'
 
 // JitPack Maven
-apply plugin: 'com.github.dcendents.android-maven'
+//apply plugin: 'com.github.dcendents.android-maven'
 // Your Group
 group = 'com.github.bayescom'
 
